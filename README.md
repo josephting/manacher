@@ -33,12 +33,12 @@ Here are some links that can help you on making your pull request:
 <!-- External links -->
 [build-badge]: https://img.shields.io/github/workflow/status/josephting/manacher/pipeline?logo=github
 [build]: https://github.com/josephting/manacher/actions
-[codecov-badge]: https://img.shields.io/codecov/c/github/josephting/manacher/master.svg
+[codecov-badge]: https://img.shields.io/codecov/c/github/josephting/manacher/main.svg
 [codecov]: https://codecov.io/gh/josephting/manacher
 [npm-badge]: https://img.shields.io/npm/v/manacher.svg?color=brightgreen
 [npm]: https://www.npmjs.com/package/manacher
 [license-badge]: https://img.shields.io/github/license/josephting/manacher.svg?color=brightgreen
-[license]: https://github.com/josephting/manacher/blob/master/LICENSE
+[license]: https://github.com/josephting/manacher/blob/main/LICENSE
 [pr-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg
 [make-a-pr]: http://makeapullrequest.com
 [issues-section]: https://github.com/josephting/manacher/issues
