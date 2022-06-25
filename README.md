@@ -1,7 +1,10 @@
 # Manacher
 
-[![Build Status](https://img.shields.io/travis/josephting/manacher/master.svg)](https://travis-ci.org/josephting/manacher) [![codecov](https://img.shields.io/codecov/c/github/josephting/manacher/master.svg)](https://codecov.io/gh/josephting/manacher) [![npm](https://img.shields.io/npm/v/manacher.svg?color=brightgreen)](https://www.npmjs.com/package/manacher) [![MIT License](https://img.shields.io/github/license/josephting/manacher.svg?color=brightgreen)](https://github.com/josephting/manacher/blob/master/LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![Build Status][build-badge]][build]
+[![codecov][codecov-badge]][codecov]
+[![npm][npm-badge]][npm]
+[![MIT License][license-badge]][license]
+[![PRs Welcome][pr-badge]][make-a-pr]
 
 `longestPalindrome()` finds the longest palindrome string within any given string.
 
@@ -28,6 +31,16 @@ Here are some links that can help you on making your pull request:
 * [Opening a pull request and other tips][opening-a-pr]
 
 <!-- External links -->
+[build-badge]: https://img.shields.io/github/workflow/status/josephting/manacher/pipeline?logo=github
+[build]: https://github.com/josephting/manacher/actions
+[codecov-badge]: https://img.shields.io/codecov/c/github/josephting/manacher/master.svg
+[codecov]: https://codecov.io/gh/josephting/manacher
+[npm-badge]: https://img.shields.io/npm/v/manacher.svg?color=brightgreen
+[npm]: https://www.npmjs.com/package/manacher
+[license-badge]: https://img.shields.io/github/license/josephting/manacher.svg?color=brightgreen
+[license]: https://github.com/josephting/manacher/blob/master/LICENSE
+[pr-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg
+[make-a-pr]: http://makeapullrequest.com
 [issues-section]: https://github.com/josephting/manacher/issues
 [creating-pr-official]: https://help.github.com/en/articles/creating-a-pull-request
 [opening-a-pr]: https://opensource.guide/how-to-contribute/#opening-a-pull-request
